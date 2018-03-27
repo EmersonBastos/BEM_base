@@ -157,4 +157,3 @@ function calc_phi_pint_nurbs(collocCoord,nnos,PONTOS_int,crv,dcrv,k,qsi,w,fc,fin
   # phi_pint = 0
   return phi_pint
 end
-            xfonte=collocCoord[
